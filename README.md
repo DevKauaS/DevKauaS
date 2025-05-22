@@ -1,7 +1,1 @@
-Hello, my name is Kauã. I am 20 years old and work as a DevOps professional with extensive experience in technology.
-
-I have a solid background in coding, including creating scripts and websites. However, my primary focus today lies in Cloud Computing, particularly with AWS. I specialize in project architecture and Infrastructure as Code (IaC) using Terraform.
-
-I am passionate about leveraging modern tools and methodologies to optimize workflows and build scalable, reliable solutions in the cloud.
-
-Other technologies with professional market experience: Grafana, DataDog, GitHub (and GitHub Actions), Python, Node.js, Markdown, AppDynamics, ServiceNow, and Splunk.
+I am a 20-year-old technology professional specializing in Cloud Architecture and Site Reliability Engineering (SRE). I have solid experience in building and managing scalable and resilient solutions, with a focus on Infrastructure as Code (IaC), automation, and DevOps best practices. With expertise in cloud computing platforms, especially AWS, I am passionate about designing efficient architectures and optimizing operations to deliver continuous business value.
